@@ -1,10 +1,3 @@
-#
-# Ubuntu Desktop (LXDE) Dockerfile
-#
-# https://github.com/dockerfile/ubuntu-desktop
-#
-
-# Pull base image.
 FROM dockerfile/ubuntu
 
 # Install LXDE and VNC server.
